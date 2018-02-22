@@ -1,6 +1,8 @@
 *.egg-info
-__pycache__
-.local2
-.local3
 *.pyc
 *.pyo
+.local2
+.local3
+__pycache__
+build
+dist
