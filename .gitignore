@@ -1,0 +1,6 @@
+*.egg-info
+__pycache__
+.local2
+.local3
+*.pyc
+*.pyo
